@@ -234,4 +234,8 @@
     <string name="hbm_disable_time_title"></string>
     <string name="hbm_disable_time_summary">禁用延迟（秒）</string>
     <string name="hbm_mode_warning">长时间使用高亮度模式可能导致屏幕损坏</string>
+    <string name="htsr_title">触控采样率优化</string>
+    <string name="htsr_enable_title">提升触控采样率</string>
+    <string name="htsr_enable_summary">提高触控采样率以优化触控体验</string>
+    <string name="htsr_enable_summary_not_supported">当前内核不支持触控采样率优化</string>
 </resources>
